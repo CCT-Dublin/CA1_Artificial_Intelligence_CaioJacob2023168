@@ -18,6 +18,10 @@ Metropolitan Police (n.d.) ‘Facial Recognition Technology’. Available at: ht
 
 University of Michigan Law School (2024) ‘Civil Rights Litigation Initiative Helps Achieve the Nation’s Strongest Police Department Policy on Facial Recognition Technology’, 28 June. Available at: https://michigan.law.umich.edu/news/civil-rights-litigation-initiative-helps-achieve-nations-strongest-police-department-policy (Accessed: 14 October 2026).
 
+American Civil Liberties Union (2024) *Williams v. City of Detroit*. Available at: https://www.aclu.org/cases/williams-v-city-of-detroit-face-recognition-false-arrest (Accessed: 14 October 2026).
+
+Grother, P., Ngan, M. and Hanaoka, K. (2019) *Face Recognition Vendor Test (FRVT) Part 3: Demographic Effects*. NIST Interagency Report 8280. Gaithersburg, MD: National Institute of Standards and Technology. Available at: https://doi.org/10.6028/NIST.IR.8280 (Accessed: 14 October 2026).
+
 ## Source Notes
 
 - **Caballar and Stryker (2025):** Used for the definition of Computer Vision, the model-development workflow, common tasks and examples of applications.
@@ -37,3 +41,7 @@ University of Michigan Law School (2024) ‘Civil Rights Litigation Initiative H
 - **Metropolitan Police (n.d.):** Used for the description of live, retrospective and other facial recognition uses by the Metropolitan Police, together with information about its policies, testing, impact assessments and deployment records.
 
 - **University of Michigan Law School (2024):** Used for the Robert Williams case, the circumstances of his wrongful arrest, the June 2024 settlement and the safeguards introduced for police use of facial recognition.
+
+- **American Civil Liberties Union (2024):** Used for the documented timeline of Robert Williams's wrongful arrest, the use of the low-quality surveillance image, the facial recognition search and the subsequent investigative steps. This source represents an organisation involved in the case and should be considered alongside other sources.
+
+- **Grother, Ngan and Hanaoka (2019):** Used for independent NIST research on demographic differences in facial recognition performance, including the distinction between false positives and false negatives. The findings concern tested algorithms and should not be assumed to describe every facial recognition system.
