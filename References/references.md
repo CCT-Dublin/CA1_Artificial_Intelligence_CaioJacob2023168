@@ -12,6 +12,12 @@ National Institute of Standards and Technology (NIST) (2026) ‘Face Recognition
 
 UNESCO (2021) *Recommendation on the Ethics of Artificial Intelligence*. Paris: UNESCO. Available at: https://www.unesco.org/en/artificial-intelligence/recommendation-ethics (Accessed: 10 October 2026).
 
+European Data Protection Board (2024) ‘Dutch Supervisory Authority imposes a fine on Clearview because of illegal data collection for facial recognition’, 3 September. Available at: https://www.edpb.europa.eu/news/dutch-supervisory-authority-imposes-a-fine-on-clearview-because-of-illegal-data-collection-for_en (Accessed: 14 October 2026).
+
+Metropolitan Police (n.d.) ‘Facial Recognition Technology’. Available at: https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/facial-recognition-technology/ (Accessed: 14 October 2026).
+
+University of Michigan Law School (2024) ‘Civil Rights Litigation Initiative Helps Achieve the Nation’s Strongest Police Department Policy on Facial Recognition Technology’, 28 June. Available at: https://michigan.law.umich.edu/news/civil-rights-litigation-initiative-helps-achieve-nations-strongest-police-department-policy (Accessed: 14 October 2026).
+
 ## Source Notes
 
 - **Caballar and Stryker (2025):** Used for the definition of Computer Vision, the model-development workflow, common tasks and examples of applications.
@@ -26,3 +32,8 @@ UNESCO (2021) *Recommendation on the Ethics of Artificial Intelligence*. Paris: 
 
 - **UNESCO (2021):** Used for information about ethical principles relating to AI, including privacy, data protection, transparency, human oversight and non-discrimination.
 
+- **European Data Protection Board (2024):** Used for the documented regulatory findings concerning Clearview AI, including the processing of biometric data, transparency, data access rights and the €30.5 million fine imposed by the Dutch Data Protection Authority.
+
+- **Metropolitan Police (n.d.):** Used for the description of live, retrospective and other facial recognition uses by the Metropolitan Police, together with information about its policies, testing, impact assessments and deployment records.
+
+- **University of Michigan Law School (2024):** Used for the Robert Williams case, the circumstances of his wrongful arrest, the June 2024 settlement and the safeguards introduced for police use of facial recognition.
