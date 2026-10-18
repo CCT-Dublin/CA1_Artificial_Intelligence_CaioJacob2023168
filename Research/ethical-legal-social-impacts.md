@@ -12,7 +12,7 @@ For example, an error in an industrial inspection system may allow a defective p
 
 One ethical concern is whether a Computer Vision system produces reliable results. An incorrect prediction can affect decisions about people, products or services. This is particularly important when the output is used in areas such as healthcare, security or law enforcement.
 
-Facial recognition provides a useful example. The National Institute of Standards and Technology (NIST) evaluates face recognition algorithms and reports differences in error rates between demographic groups. Its findings show that performance can vary depending on the algorithm, the image quality and the group being assessed (NIST, 2026).
+Facial recognition provides a useful example. The National Institute of Standards and Technology (NIST) evaluates face recognition algorithms and reports differences in error rates between demographic groups. Its findings show that performance can vary depending on the algorithm, image quality and the group being assessed (Grother, Ngan and Hanaoka, 2019).
 
 This means that a system should be tested under conditions similar to those in which it will actually be used. Organisations should not assume that a model performs equally well for every person or environment.
 
@@ -20,7 +20,7 @@ This means that a system should be tested under conditions similar to those in w
 
 Computer Vision systems learn patterns from data. If the training data does not represent the population or conditions in which the system will be used, performance may be uneven.
 
-NIST reports demographic differences in face recognition error rates, including differences associated with age, sex and race. The size and direction of these differences depend on the algorithm and the evaluation conditions (NIST, 2026).
+NIST reports demographic differences in face recognition error rates, including differences associated with age, sex and race. The size and direction of these differences depend on the algorithm and the evaluation conditions (Grother, Ngan and Hanaoka, 2019).
 
 Unequal performance can create unfair outcomes. For example, a false match in a security or policing context may lead to additional questioning or further investigation of an innocent person. Developers and organisations should therefore evaluate performance across relevant demographic groups and investigate differences before deploying a system.
 
@@ -70,7 +70,7 @@ If people believe that their movements are constantly being monitored, they may 
 
 The consequences of an error may not be the same for everyone. If a system produces different error rates across demographic groups, some people may face a greater risk of incorrect identification.
 
-The NIST findings on demographic differences in facial recognition provide evidence that this concern should be evaluated rather than assumed to be the same across all systems (NIST, 2026).
+The NIST findings on demographic differences in facial recognition provide evidence that this concern should be evaluated rather than assumed to be the same across all systems (Grother, Ngan and Hanaoka, 2019).
 
 Organisations should assess who may be affected, how serious the consequences could be and whether people have a way to challenge an incorrect result.
 
